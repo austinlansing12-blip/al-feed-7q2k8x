@@ -25,6 +25,15 @@
       <itunes:duration>00:34:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>Daily Investment Brief — May 12, 2026 (v2 — TTS-optimized script)</title>
+      <description>Same brief as v1 but with acronyms expanded (CPI → consumer price index, BoA → Bank of America, PLA → People's Liberation Army, etc.), numbers verbalized, and tables narrated in prose. This is the format future briefs will use automatically.</description>
+      <pubDate>Tue, 12 May 2026 13:30:00 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-12-brief-v2.mp3" length="22392621" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-12-brief-v2.mp3#2026-05-12T13:30:00+00:00</guid>
+      <itunes:duration>00:31:05</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
