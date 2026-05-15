@@ -34,6 +34,15 @@
       <itunes:duration>00:31:05</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>Daily Investment Brief — May 15, 2026</title>
+      <description>**Sources:** 50 newsletters (May 13–15) | **Wiki context:** 20 theme pages, 6 thinker profiles, 8 entity pages **Portfolio:** ~CA$1.58M gross / ~CA$1.45M net (May 15 live prices) | Concentrated resources/commodities | Barbell strategy **HG concentration:** ~76% gross / ~83% net | **Margin utilizat</description>
+      <pubDate>Fri, 15 May 2026 19:40:09 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-15-brief.mp3" length="12917997" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-15-brief.mp3#2026-05-15T19:40:09.763124+00:00</guid>
+      <itunes:duration>00:17:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
