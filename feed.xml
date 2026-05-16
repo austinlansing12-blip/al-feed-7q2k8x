@@ -115,6 +115,15 @@
       <itunes:duration>00:27:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Campbell Ramble] The Dragon and the Tigers</title>
+      <description>Full article narration: The Dragon and the Tigers by Campbell Ramble.</description>
+      <pubDate>Mon, 11 May 2026 11:55:14 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-11-campbell-ramble-the-dragon-and-the-tigers.mp3" length="36831213" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-11-campbell-ramble-the-dragon-and-the-tigers.mp3#2026-05-11T11:55:14+00:00</guid>
+      <itunes:duration>00:51:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
