@@ -88,6 +88,15 @@
       <itunes:duration>00:20:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Campbell Ramble] Down Days</title>
+      <description>Full article narration: Down Days by Campbell Ramble.</description>
+      <pubDate>Fri, 15 May 2026 18:48:42 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-15-campbell-ramble-down-days.mp3" length="17806797" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-15-campbell-ramble-down-days.mp3#2026-05-15T18:48:42+00:00</guid>
+      <itunes:duration>00:24:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
