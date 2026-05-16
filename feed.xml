@@ -124,6 +124,15 @@
       <itunes:duration>00:51:09</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Campbell Ramble] Priced for Peace</title>
+      <description>Full article narration: Priced for Peace by Campbell Ramble.</description>
+      <pubDate>Fri, 08 May 2026 05:32:29 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-08-campbell-ramble-priced-for-peace.mp3" length="24258285" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-08-campbell-ramble-priced-for-peace.mp3#2026-05-08T05:32:29+00:00</guid>
+      <itunes:duration>00:33:41</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
