@@ -52,6 +52,15 @@
       <itunes:duration>00:22:45</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] Miners: Game On</title>
+      <description>Full article narration: Miners: Game On by Tavi Costa.</description>
+      <pubDate>Tue, 12 May 2026 20:22:11 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-12-tavi-costa-miners-game-on.mp3" length="13417965" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-12-tavi-costa-miners-game-on.mp3#2026-05-12T20:22:11+00:00</guid>
+      <itunes:duration>00:18:38</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
