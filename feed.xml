@@ -70,6 +70,15 @@
       <itunes:duration>00:37:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] The Return of the Weak Dollar Regime</title>
+      <description>Full article narration: The Return of the Weak Dollar Regime by Tavi Costa.</description>
+      <pubDate>Sun, 10 May 2026 22:34:54 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-10-tavi-costa-the-return-of-the-weak-dollar-regime.mp3" length="13182957" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-10-tavi-costa-the-return-of-the-weak-dollar-regime.mp3#2026-05-10T22:34:54+00:00</guid>
+      <itunes:duration>00:18:18</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
