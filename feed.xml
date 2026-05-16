@@ -43,6 +43,15 @@
       <itunes:duration>00:17:56</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] Macro Charts for the Decade Ahead</title>
+      <description>Full article narration: Macro Charts for the Decade Ahead by Tavi Costa.</description>
+      <pubDate>Fri, 15 May 2026 21:34:11 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-15-tavi-costa-macro-charts-for-the-decade-ahead.mp3" length="16390125" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-15-tavi-costa-macro-charts-for-the-decade-ahead.mp3#2026-05-15T21:34:11+00:00</guid>
+      <itunes:duration>00:22:45</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
