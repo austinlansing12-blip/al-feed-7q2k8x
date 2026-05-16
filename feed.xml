@@ -79,6 +79,15 @@
       <itunes:duration>00:18:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] Copper at Record Highs</title>
+      <description>Full article narration: Copper at Record Highs by Tavi Costa.</description>
+      <pubDate>Fri, 08 May 2026 20:01:01 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-08-tavi-costa-copper-at-record-highs.mp3" length="14613453" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-08-tavi-costa-copper-at-record-highs.mp3#2026-05-08T20:01:01+00:00</guid>
+      <itunes:duration>00:20:17</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
