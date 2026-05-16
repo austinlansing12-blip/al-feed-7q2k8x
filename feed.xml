@@ -142,6 +142,15 @@
       <itunes:duration>00:37:32</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>Daily Investment Brief — May 16, 2026</title>
+      <description>**Sources:** 1 new thinker piece (Campbell &quot;Down Days,&quot; published Friday 6:48pm) | **Wiki context:** 20 theme pages, 6 thinker profiles, 4 entity pages | **Note:** Saturday edition — markets closed, no new news-tier newsletters since yesterday's brief. **Portfolio:** ~CA$1.58M gross / ~CA$1.45M ne</description>
+      <pubDate>Sat, 16 May 2026 19:15:26 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-16-brief.mp3" length="9466317" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-16-brief.mp3#2026-05-16T19:15:26.261002+00:00</guid>
+      <itunes:duration>00:13:08</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
