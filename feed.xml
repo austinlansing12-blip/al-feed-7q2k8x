@@ -151,6 +151,15 @@
       <itunes:duration>00:13:08</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>Daily Investment Brief — May 17, 2026</title>
+      <description>**Sources:** 11 weekend newsletters (5 Bloomberg + 3 WSJ + 2 Barrons + 1 WSJ Leadership) | **Wiki context:** 20 theme pages, 6 thinker profiles, 4 entity pages | **Note:** Sunday brief. Markets closed; this is the news-tier synthesis of the post-bond-rout weekend. **Portfolio:** ~CA$1.58M gross / ~C</description>
+      <pubDate>Sun, 17 May 2026 16:24:53 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-17-brief.mp3" length="27653229" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-17-brief.mp3#2026-05-17T16:24:53.699314+00:00</guid>
+      <itunes:duration>00:38:24</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
