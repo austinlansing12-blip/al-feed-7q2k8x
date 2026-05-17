@@ -160,6 +160,15 @@
       <itunes:duration>00:38:24</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] Mining: More Profitable Than Tech</title>
+      <description>Full article narration: Mining: More Profitable Than Tech by Tavi Costa.</description>
+      <pubDate>Sun, 17 May 2026 16:09:33 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-17-tavi-costa-mining-more-profitable-than-tech.mp3" length="16149069" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-17-tavi-costa-mining-more-profitable-than-tech.mp3#2026-05-17T16:09:33+00:00</guid>
+      <itunes:duration>00:22:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
