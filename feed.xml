@@ -169,6 +169,15 @@
       <itunes:duration>00:22:25</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>Daily Investment Brief — May 18, 2026</title>
+      <description>**Sources:** 9 newsletters (5 WSJ + 3 Bloomberg + 1 Barron's) | **Wiki context:** 20 theme pages, 7 thinker profiles, 4 entity pages **Portfolio:** ~CA$1.55M gross / ~CA$1.43M net (Friday close held into Monday; Monday open flat HG, mild weakness CDE/HL, BTC slid below $80K) | Concentrated resources</description>
+      <pubDate>Mon, 18 May 2026 16:21:02 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-18-brief.mp3" length="15430509" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-18-brief.mp3#2026-05-18T16:21:02.029538+00:00</guid>
+      <itunes:duration>00:21:25</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
