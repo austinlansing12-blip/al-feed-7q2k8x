@@ -205,6 +205,15 @@
       <itunes:duration>00:15:53</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Campbell Ramble] There Are Bonds in the Semiconductors</title>
+      <description>Full article narration: There Are Bonds in the Semiconductors by Campbell Ramble.</description>
+      <pubDate>Wed, 20 May 2026 05:35:31 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-20-campbell-ramble-there-are-bonds-in-the-semiconduct.mp3" length="22888845" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-20-campbell-ramble-there-are-bonds-in-the-semiconduct.mp3#2026-05-20T05:35:31+00:00</guid>
+      <itunes:duration>00:31:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
