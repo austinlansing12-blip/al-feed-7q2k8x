@@ -241,6 +241,15 @@
       <itunes:duration>00:17:23</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>Daily Investment Brief — May 21, 2026</title>
+      <description>**Sources:** 17 newsletters (8 WSJ + 7 Bloomberg + 2 Barron's) + Costa May 19 + Campbell May 20 + Rule May 20 + Dutta May 20 thinker layer | **Wiki context:** 7 theme pages, 4 thinker profiles **Portfolio:** ~CA$1.59M gross / ~CA$1.47M net (live prices below; Dashboard last refreshed Apr 27 — comp</description>
+      <pubDate>Thu, 21 May 2026 16:50:30 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-21-brief.mp3" length="16455213" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-21-brief.mp3#2026-05-21T16:50:30.025137+00:00</guid>
+      <itunes:duration>00:22:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
