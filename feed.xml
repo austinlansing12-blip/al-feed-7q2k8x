@@ -277,6 +277,15 @@
       <itunes:duration>00:42:49</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] Favorite Macro Charts From IGWT</title>
+      <description>Full article narration: Favorite Macro Charts From IGWT by Tavi Costa.</description>
+      <pubDate>Sat, 23 May 2026 15:05:59 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-23-tavi-costa-favorite-macro-charts-from-igwt.mp3" length="30778029" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-23-tavi-costa-favorite-macro-charts-from-igwt.mp3#2026-05-23T15:05:59+00:00</guid>
+      <itunes:duration>00:42:44</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
