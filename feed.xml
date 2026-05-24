@@ -286,6 +286,15 @@
       <itunes:duration>00:42:44</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>Daily Investment Brief — May 24, 2026</title>
+      <description>**Sources:** 21 newsletters (10 Bloomberg + 6 WSJ + 5 Barron's) + Tavi Costa ×3 + Campbell Ghost Protocol thinker layer | **Wiki context:** 8 theme pages, 6 thinker profiles **Portfolio:** ~CA$1.56M gross / ~CA$1.44M net (live Fri May 22 prices below; tracker last refreshed May 22) | Concentrated r</description>
+      <pubDate>Sun, 24 May 2026 20:31:04 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-24-brief.mp3" length="15950349" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-24-brief.mp3#2026-05-24T20:31:04.124270+00:00</guid>
+      <itunes:duration>00:22:09</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
