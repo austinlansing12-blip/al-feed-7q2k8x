@@ -313,6 +313,15 @@
       <itunes:duration>00:17:13</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>Daily Investment Brief — May 25, 2026 (Memorial Day)</title>
+      <description>**Sources:** 6 newsletters (3 Bloomberg + 2 WSJ + 1 Barron's), light Memorial-Day-weekend batch | **Wiki context:** 4 theme pages, 2 thinker profiles, News Dashboard **Portfolio:** ~CA$1.57M gross / ~CA$1.45M net (live Mon May 25 Canadian-session prices below; US markets closed for Memorial Day) | C</description>
+      <pubDate>Mon, 25 May 2026 21:13:28 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-25-brief.mp3" length="16460397" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-25-brief.mp3#2026-05-25T21:13:28.535574+00:00</guid>
+      <itunes:duration>00:22:51</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
