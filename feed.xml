@@ -322,6 +322,15 @@
       <itunes:duration>00:22:51</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[David Lin Report] The Market ‘Screams To Sell’</title>
+      <description>Full article narration: The Market ‘Screams To Sell’ by David Lin Report.</description>
+      <pubDate>Tue, 26 May 2026 13:03:07 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-26-david-lin-the-market-screams-to-sell.mp3" length="23560173" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-26-david-lin-the-market-screams-to-sell.mp3#2026-05-26T13:03:07+00:00</guid>
+      <itunes:duration>00:32:43</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
