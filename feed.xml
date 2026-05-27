@@ -349,6 +349,15 @@
       <itunes:duration>00:15:17</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>Daily Investment Brief — May 27, 2026</title>
+      <description>**Sources:** 19 newsletters (5 Bloomberg + 7 WSJ + 2 Barron's + 3 thinker pieces + 2 dashboard layers) | **Wiki context:** 5 theme pages, 4 thinker profiles, News Dashboard **Portfolio:** ~CA$1.43M gross / ~CA$1.39M net (live US-session prices below; HG bled to CA$6.57) | Concentrated resources/comm</description>
+      <pubDate>Wed, 27 May 2026 16:56:14 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-27-brief.mp3" length="20114829" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-27-brief.mp3#2026-05-27T16:56:14.916392+00:00</guid>
+      <itunes:duration>00:27:56</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
