@@ -331,6 +331,15 @@
       <itunes:duration>00:32:43</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] List of Technical Setups</title>
+      <description>Full article narration: List of Technical Setups by Tavi Costa.</description>
+      <pubDate>Tue, 26 May 2026 23:22:02 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-26-tavi-costa-list-of-technical-setups.mp3" length="15806637" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-26-tavi-costa-list-of-technical-setups.mp3#2026-05-26T23:22:02+00:00</guid>
+      <itunes:duration>00:21:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
