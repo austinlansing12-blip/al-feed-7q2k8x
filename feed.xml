@@ -367,6 +367,15 @@
       <itunes:duration>00:21:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] Time for Copper Miners</title>
+      <description>Full article narration: Time for Copper Miners by Tavi Costa.</description>
+      <pubDate>Thu, 28 May 2026 22:53:45 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-28-tavi-costa-time-for-copper-miners.mp3" length="235917" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-05-28-tavi-costa-time-for-copper-miners.mp3#2026-05-28T22:53:45+00:00</guid>
+      <itunes:duration>00:00:19</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
