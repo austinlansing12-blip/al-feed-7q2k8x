@@ -385,6 +385,15 @@
       <itunes:duration>00:16:35</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] The Case for Silver Miners</title>
+      <description>Full article narration: The Case for Silver Miners by Tavi Costa.</description>
+      <pubDate>Tue, 16 Jun 2026 23:42:41 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-16-tavi-costa-the-case-for-silver-miners.mp3" length="10959309" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-16-tavi-costa-the-case-for-silver-miners.mp3#2026-06-16T23:42:41+00:00</guid>
+      <itunes:duration>00:15:13</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
