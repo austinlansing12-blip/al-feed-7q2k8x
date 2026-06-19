@@ -376,6 +376,15 @@
       <itunes:duration>00:00:19</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] Fed's DOGE Moment</title>
+      <description>Full article narration: Fed's DOGE Moment by Tavi Costa.</description>
+      <pubDate>Thu, 18 Jun 2026 23:16:57 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-18-tavi-costa-fed-s-doge-moment.mp3" length="11941101" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-18-tavi-costa-fed-s-doge-moment.mp3#2026-06-18T23:16:57+00:00</guid>
+      <itunes:duration>00:16:35</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
