@@ -421,6 +421,15 @@
       <itunes:duration>00:13:52</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[David Lin Report] Peace Rally Or Blow-Off Top?</title>
+      <description>Full article narration: Peace Rally Or Blow-Off Top? by David Lin Report.</description>
+      <pubDate>Mon, 15 Jun 2026 20:48:35 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-15-david-lin-peace-rally-or-blow-off-top.mp3" length="27214317" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-15-david-lin-peace-rally-or-blow-off-top.mp3#2026-06-15T20:48:35+00:00</guid>
+      <itunes:duration>00:37:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
