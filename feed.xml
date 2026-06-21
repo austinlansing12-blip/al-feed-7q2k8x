@@ -412,6 +412,15 @@
       <itunes:duration>00:27:18</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] Compelling Charts for Copper</title>
+      <description>Full article narration: Compelling Charts for Copper by Tavi Costa.</description>
+      <pubDate>Sat, 20 Jun 2026 23:53:27 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-20-tavi-costa-compelling-charts-for-copper.mp3" length="9988173" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-20-tavi-costa-compelling-charts-for-copper.mp3#2026-06-20T23:53:27+00:00</guid>
+      <itunes:duration>00:13:52</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
