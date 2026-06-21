@@ -430,6 +430,15 @@
       <itunes:duration>00:37:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Rick Rule] Paul's Notes #8</title>
+      <description>Full article narration: Paul's Notes #8 by Rick Rule.</description>
+      <pubDate>Tue, 16 Jun 2026 12:44:57 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-16-rick-rule-paul-s-notes-8.mp3" length="2736621" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-16-rick-rule-paul-s-notes-8.mp3#2026-06-16T12:44:57+00:00</guid>
+      <itunes:duration>00:03:47</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
