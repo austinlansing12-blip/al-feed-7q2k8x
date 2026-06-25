@@ -439,6 +439,15 @@
       <itunes:duration>00:03:47</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] Sequence of Gold Charts</title>
+      <description>Full article narration: Sequence of Gold Charts by Tavi Costa.</description>
+      <pubDate>Wed, 24 Jun 2026 21:52:00 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-24-tavi-costa-sequence-of-gold-charts.mp3" length="11142189" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-24-tavi-costa-sequence-of-gold-charts.mp3#2026-06-24T21:52:00+00:00</guid>
+      <itunes:duration>00:15:28</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
