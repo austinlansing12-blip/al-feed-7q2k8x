@@ -448,6 +448,15 @@
       <itunes:duration>00:15:28</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] A ~40-Year Support</title>
+      <description>Full article narration: A ~40-Year Support by Tavi Costa.</description>
+      <pubDate>Fri, 26 Jun 2026 23:22:37 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-26-tavi-costa-a-40-year-support.mp3" length="12950253" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-26-tavi-costa-a-40-year-support.mp3#2026-06-26T23:22:37+00:00</guid>
+      <itunes:duration>00:17:59</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
