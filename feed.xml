@@ -457,6 +457,15 @@
       <itunes:duration>00:17:59</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[David Lin Report] Dangerous New Red Flags Threaten Markets</title>
+      <description>Full article narration: Dangerous New Red Flags Threaten Markets by David Lin Report.</description>
+      <pubDate>Sat, 27 Jun 2026 15:19:57 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-27-david-lin-dangerous-new-red-flags-threaten-markets.mp3" length="27451917" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-27-david-lin-dangerous-new-red-flags-threaten-markets.mp3#2026-06-27T15:19:57+00:00</guid>
+      <itunes:duration>00:38:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
