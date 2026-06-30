@@ -466,6 +466,15 @@
       <itunes:duration>00:38:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] A Surge in Money Supply</title>
+      <description>Full article narration: A Surge in Money Supply by Tavi Costa.</description>
+      <pubDate>Tue, 30 Jun 2026 03:05:06 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-30-tavi-costa-a-surge-in-money-supply.mp3" length="9005517" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-06-30-tavi-costa-a-surge-in-money-supply.mp3#2026-06-30T03:05:06+00:00</guid>
+      <itunes:duration>00:12:30</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
