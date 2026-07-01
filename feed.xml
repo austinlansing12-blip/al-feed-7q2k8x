@@ -484,6 +484,15 @@
       <itunes:duration>00:11:10</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] The Case for Silver Part II</title>
+      <description>Full article narration: The Case for Silver Part II by Tavi Costa.</description>
+      <pubDate>Wed, 01 Jul 2026 02:36:30 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-07-01-tavi-costa-the-case-for-silver-part-ii.mp3" length="16645581" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-07-01-tavi-costa-the-case-for-silver-part-ii.mp3#2026-07-01T02:36:30+00:00</guid>
+      <itunes:duration>00:23:07</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
