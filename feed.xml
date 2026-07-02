@@ -493,6 +493,15 @@
       <itunes:duration>00:23:07</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>[Tavi Costa] Key Macro Charts</title>
+      <description>Full article narration: Key Macro Charts by Tavi Costa.</description>
+      <pubDate>Wed, 01 Jul 2026 22:44:09 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-07-01-tavi-costa-key-macro-charts.mp3" length="10772685" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-07-01-tavi-costa-key-macro-charts.mp3#2026-07-01T22:44:09+00:00</guid>
+      <itunes:duration>00:14:57</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
