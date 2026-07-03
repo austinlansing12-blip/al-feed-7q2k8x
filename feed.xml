@@ -502,6 +502,15 @@
       <itunes:duration>00:14:57</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>The Download — Market Minute — July 03</title>
+      <description>Soft June jobs report (+57K vs ~115K expected) fuels a third straight gold up-day and a green PM sleeve; HG at CA$5.05 with kill-signal scan all clear; chip rout continues as Dow hits a record.</description>
+      <pubDate>Fri, 03 Jul 2026 20:40:39 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-07-03-download.mp3" length="1100493" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-07-03-download.mp3#2026-07-03T20:40:39.974704+00:00</guid>
+      <itunes:duration>00:01:31</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
