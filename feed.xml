@@ -511,6 +511,15 @@
       <itunes:duration>00:01:31</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>The Download — Market Minute — Jul 05</title>
+      <description>PM sleeve rips Thursday on soft jobs report and Fed independence fears; gold through $4,130, HG steady at CA$5.05.</description>
+      <pubDate>Sun, 05 Jul 2026 14:34:36 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-07-05-download.mp3" length="796365" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-07-05-download.mp3#2026-07-05T14:34:36.119359+00:00</guid>
+      <itunes:duration>00:01:06</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
