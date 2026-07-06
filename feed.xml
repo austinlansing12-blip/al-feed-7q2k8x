@@ -520,6 +520,15 @@
       <itunes:duration>00:01:06</itunes:duration>
       <itunes:explicit>false</itunes:explicit>
     </item>
+        <item>
+      <title>The Download — Market Minute — July 06</title>
+      <description>HydroGraph bounces 11% off Friday's low, precious metals sleeve gives back some gains, and a listing-heavy week (SK Hynix, SpaceX, FOMC minutes) sets up HG's own Nasdaq uplisting.</description>
+      <pubDate>Mon, 06 Jul 2026 14:35:23 +0000</pubDate>
+      <enclosure url="https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-07-06-download.mp3" length="962253" type="audio/mpeg"/>
+      <guid isPermaLink="false">https://austinlansing12-blip.github.io/al-feed-7q2k8x/audio/2026-07-06-download.mp3#2026-07-06T14:35:23.718330+00:00</guid>
+      <itunes:duration>00:01:20</itunes:duration>
+      <itunes:explicit>false</itunes:explicit>
+    </item>
     <!--EPISODES-->
   </channel>
 </rss>
